@@ -1,0 +1,23 @@
+---
+title: "About Me"
+about: 
+  template: jolla
+  image: portfolio_pic.jpg
+  links:
+    - icon: twitter
+      text: X / twitter 
+      href: https://x.com/carlottaang76
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/carlotta-angiolillo-88a711245/
+---
+
+Hi! My name is Carlotta Angiolillo, and I'm a junior at Northwestern University studying journalism and data science. I'm currently working as a Congressional reporter covering health and science in Washington, D.C. through Northwestern's Medill on the Hill program.
+
+At Northwestern, I've spent countless hours working as a reporter and editor for The Daily Northwestern. Being a member of The Daily has allowed me to become a well-rounded journalist: audio, data, audience engagement and breaking news are some of the skills I've developed in my time on staff.
+
+As a college student, I've also had the opportunity to work with journalists at WBEZ as a freelancer. Last summer, I was an intern for the Houston Chronicle's Pulitzer Prize-winning opinion team. Both of these experiences strengthened my commitment to a career in journalism and my desire to uplift the voices of people who are often ignored or underrepresented in media.
+
+Outside of journalism, you can usually find me at a local coffee shop, learning new chords on the guitar or watching the latest episode of Abbott Elementary.
+
+You can reach me at carlottaangiolillo2027\@u.northwestern.edu or 832-728-7576.
