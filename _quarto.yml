@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "journalism_portfolio"
+  title: "Carlotta Angiolillo"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - resume.qmd
-      - worksamples.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: worksamples.qmd
+        text: Work Samples
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
