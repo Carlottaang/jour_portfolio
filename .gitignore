@@ -2,8 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-<<<<<<< HEAD
-=======
-
-/.quarto/
->>>>>>> 8629475a4091d0902608f2c5ce1072ebdf70eced
+.quarto/
