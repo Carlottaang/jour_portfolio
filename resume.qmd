@@ -62,7 +62,6 @@ title: "Resume"
 
 **SKILLS AND AWARDS**
 
--   Proficient in AP Style, data analysis and visualization (R, Google Sheets, Flourish), Adobe Audition, Adobe
-    Lightroom, photography, field recording (audio)
+-   Proficient in AP Style, data analysis and visualization (R, Google Sheets, Flourish), Adobe Audition, Adobe Lightroom, photography, field recording (audio)
 
 -   5th place in the ACP Multimedia Story of the Year (Podcast) contest (2024) for “A look into The Daily’s coverage of the Deering Meadow encampment”
