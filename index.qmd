@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+subtitle: "Carlotta Angiolillo"
 about: 
   template: jolla
   image: LIN-139.jpeg
@@ -12,10 +13,10 @@ about:
       href: https://www.linkedin.com/in/carlotta-angiolillo-88a711245/
 ---
 
-Hi! My name is Carlotta Angiolillo, and I’m a junior at Northwestern University studying journalism and data science.
+Hi! I'm a recent graduate of Northwestern's Medill School of Journalism and a general assignment reporter at the Columbia Missourian.
 
-This summer, I'm joining The Columbia Missourian as a reporting intern for a few months. I'm looking for my next opportunity in journalism after that.
+At Northwestern, I had the privilege of learning about and doing many different types of journalism, including audio storytelling, data reporting, investigative work, community engagement and legal reporting. I was a reporter and editor for The Daily Northwestern, the student paper that served the campus community along with Evanston news.
 
-Outside of journalism, I’m usually at a local coffee shop, learning new guitar chords or catching up on the latest episode of Abbott Elementary.
+Outside of journalism, I’m usually spending too much money at a local coffee shop, learning new guitar chords or catching up on the latest episode of Abbott Elementary.
 
 You can reach me at lottangiol\@gmail.com or 832-728-7576.
