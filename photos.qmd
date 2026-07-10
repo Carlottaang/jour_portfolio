@@ -1,3 +1,33 @@
 ---
 title: "Photojournalism"
 ---
+
+
+During my time as a reporter and editor for The Daily Northwestern, I had the opportunity to do some sports photojournalism for various Northwestern sports, which was a fun challenge to take on. I also took pictures for stories I wrote for the paper. Check out some of my favorites below. 
+
+::: {layout-ncol="2"}
+
+![Paczki eating contest in Evanston, Illinois](paczkieating.jpg)
+
+![Northwestern men's basketball game versus Iowa](mbb_iowa1.jpg)
+
+![Northwestern swim meet](nuswim1.jpg)
+
+![Northwestern men's tennis match](numenstennis1.jpg)
+
+![Northwestern tap dance performance](toniktap.jpg)
+
+![Northwestern women's basketball game](womensbb1.jpg)
+
+![Northwestern men's basketball game versus Iowa](boo.jpg)
+
+![Northwestern swim meet](nuswimmeet.jpg)
+
+![Northwestern men's tennis match](numenstennis2.jpg)
+
+
+![Art showcase in Evanston, Illinois](communityart.jpg)
+
+
+:::
+
