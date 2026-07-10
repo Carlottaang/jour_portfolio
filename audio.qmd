@@ -19,6 +19,6 @@ During a period of protest at Northwestern, I worked with top editors at The Dai
 
 [Listen: Gen Z pro-life activists, students convene for annual March for Life](https://medillonthehill.medill.northwestern.edu/2026/01/listen-gen-z-pro-life-activists-students-convene-for-annual-march-for-life/)
 
-::: {layout-ncol="4"}
+::: {layout-ncol="2"}
 ![Behind the scenes of one of my audio stories for Medill on the Hill in Washington, D.C. (Photo credit to fellow reporter Ben Shapiro)](audiopic.jpeg)
 :::
