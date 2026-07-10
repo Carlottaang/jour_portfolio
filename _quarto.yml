@@ -10,12 +10,16 @@ website:
         text: About
       - href: resume.qmd
         text: Resume
-      - href: worksamples.qmd
-        text: Work Samples
+      - href: print.qmd
+        text: Print Reporting
+      - href: audio.qmd
+        text: Audio Reporting
+      - href: photos.qmd
+        text: Photojournalism
 
 format:
   html:
-    theme: lux
+    theme: brite
     css: styles.css
     toc: true
 
