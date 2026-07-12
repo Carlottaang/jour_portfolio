@@ -14,6 +14,8 @@ website:
         text: Print Reporting
       - href: audio.qmd
         text: Audio Reporting
+      - href: data.qmd
+        text: Data Journalism
       - href: photos.qmd
         text: Photojournalism
 
